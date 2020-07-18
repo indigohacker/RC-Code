@@ -1,0 +1,5 @@
+-p q
+-p -q r
+p -q -r -s
+-p q -r -s
+-p -q r -s t -u
